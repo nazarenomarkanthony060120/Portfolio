@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.85921d1d.css",
+    "main.js": "/portfolio/static/js/main.d0e4192d.js",
+    "static/media/me.png": "/portfolio/static/media/me.a3a5a3046276d774ef10.png",
+    "static/media/Attendance_App.jpg": "/portfolio/static/media/Attendance_App.37d8108c3050dfbf9027.jpg",
+    "static/media/Minimart_Inventory_System.png": "/portfolio/static/media/Minimart_Inventory_System.2f7a28d9310c4db46443.png",
+    "static/media/Mark_Anthony_Nazareno_Resume.docx": "/portfolio/static/media/Mark_Anthony_Nazareno_Resume.00a99580215e8f5ffbb5.docx",
+    "static/media/Admin_Website.png": "/portfolio/static/media/Admin_Website.d829af3d3fbc373638f7.png",
+    "static/media/Parent_Website.png": "/portfolio/static/media/Parent_Website.94dde241205ef9b05b8e.png",
+    "static/media/Teacher_Website.png": "/portfolio/static/media/Teacher_Website.90268f63ededaf560d42.png",
+    "static/media/github.svg": "/portfolio/static/media/github.7567eb486ad4a805e2faaaff006e7e2c.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.b1bd91ee966847e46cd0be70489e15b6.svg",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.16571319cabb67df00d46ec27114770b.svg",
+    "index.html": "/portfolio/index.html",
+    "main.85921d1d.css.map": "/portfolio/static/css/main.85921d1d.css.map",
+    "main.d0e4192d.js.map": "/portfolio/static/js/main.d0e4192d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85921d1d.css",
+    "static/js/main.d0e4192d.js"
+  ]
+}

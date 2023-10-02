@@ -38,8 +38,8 @@ export default function Header() {
                         </div>
                         <div className="hidden sm:ml-6 sm:block">
                             <div className="flex space-x-4">
-                                {navigation.map((item) => (
-                                    <Link to={item.href} className={ 'text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium' } aria-current={item.current ? 'page' : undefined}>
+                                {navigation.map((item, index) => (
+                                    <Link to={item.href} key={index} className={ 'text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium' } aria-current={item.current ? 'page' : undefined}>
                                         {item.name}
                                     </Link>
                                 ))}

@@ -67,10 +67,13 @@ function Projects() {
                                                 <span>Backend: Javascript</span>
                                                 <span>Database: Firebase Firestore</span>
                                             </div>
-                                            <div className="text-center">
+                                            <div className="flex flex-col text-center gap-4">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Admin_Website" target="_blank" rel="noopener noreferrer">
                                                     <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
+                                                <Link to="/admin">
+                                                    <button className='w-full py-2 rounded border-2 border-green-500 shadow-lg hover:shadow-green-500 hover:bg-green-500 hover:text-white'>View</button>
+                                                </Link>
                                             </div>
                                         </div>
                                     </div>
@@ -90,10 +93,13 @@ function Projects() {
                                                 <span>Backend: Javascript</span>
                                                 <span>Database: Firebase Firestore</span>
                                             </div>
-                                            <div className="text-center">
+                                            <div className="flex flex-col text-center gap-4">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Teacher_Website" target="_blank" rel="noopener noreferrer">
                                                     <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
+                                                <Link to="/teacher">
+                                                    <button className='w-full py-2 rounded border-2 border-green-500 shadow-lg hover:shadow-green-500 hover:bg-green-500 hover:text-white'>View</button>
+                                                </Link>
                                             </div>
                                         </div>
                                     </div>
@@ -113,10 +119,13 @@ function Projects() {
                                                 <span>Backend: Javascript</span>
                                                 <span>Database: Firebase Firestore</span>
                                             </div>
-                                            <div className="text-center">
+                                            <div className="flex flex-col text-center gap-4">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Parent_Website" target="_blank" rel="noopener noreferrer">
                                                     <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
+                                                <Link to="/parent">
+                                                    <button className='w-full py-2 rounded border-2 border-green-500 shadow-lg hover:shadow-green-500 hover:bg-green-500 hover:text-white'>View</button>
+                                                </Link>
                                             </div>
                                         </div>
                                     </div>
@@ -136,10 +145,13 @@ function Projects() {
                                                 <span>Backend: N/A</span>
                                                 <span>Database: Firebase Firestore</span>
                                             </div>
-                                            <div className="text-center">
+                                            <div className="flex flex-col text-center gap-4">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Attendance_Application" target="_blank" rel="noopener noreferrer">
                                                     <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
+                                                <Link to="/attendance">
+                                                    <button className='w-full py-2 rounded border-2 border-green-500 shadow-lg hover:shadow-green-500 hover:bg-green-500 hover:text-white'>View</button>
+                                                </Link>
                                             </div>
                                         </div>
                                     </div>

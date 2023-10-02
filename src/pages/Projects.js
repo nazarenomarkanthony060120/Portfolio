@@ -9,14 +9,7 @@ import AttendanceApp from '../images/Attendance_App.jpg'
 import { Animate, AnimateGroup } from "react-simple-animate";
 
 function Projects() {
-    const systems = [
-        { name: "Minimart Inventory System", link: "/minimart", image: <MinimartInventorySystem />},
-        { name: "Admin Website", link: "/admin"},
-        { name: "Teacher Website", link: "/teacher"},
-        { name: "Parent Website", link: "/parent"},
-        { name: "Attendance App", link: "/attendance"},
-    ]
-
+    
     return (
         <div className=" bg-gray-800 h-fit py-10" >
             <div className="flex flex-col mx-auto max-w-7xl px-2 sm:px-6 lg:px-8 text-white h-fit max-xl:h-fit max-sm:px-7 max-md:grid-cols-1 gap-14">

@@ -19,7 +19,6 @@ function Projects() {
 
     return (
         <div className=" bg-gray-800 h-fit py-10" >
-            
             <div className="flex flex-col mx-auto max-w-7xl px-2 sm:px-6 lg:px-8 text-white h-fit max-xl:h-fit max-sm:px-7 max-md:grid-cols-1 gap-14">
                 <div className="flex flex-col gap-4">
                     <div className="text-center">
@@ -42,10 +41,13 @@ function Projects() {
                                                 <span>Backend: NodeJS, ExpressJS, NodeMailer</span>
                                                 <span>Database: MySQL</span>
                                             </div>
-                                            <div className="text-center">
+                                            <div className="text-center flex flex-col gap-4">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Minimart_Inventory_System" target="_blank" rel="noopener noreferrer">
-                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-xl hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
+                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
+                                                <Link to="/minimart">
+                                                    <button className='w-full py-2 rounded border-2 border-green-500 shadow-lg hover:shadow-green-500 hover:bg-green-500 hover:text-white'>View</button>
+                                                </Link>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +69,7 @@ function Projects() {
                                             </div>
                                             <div className="text-center">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Admin_Website" target="_blank" rel="noopener noreferrer">
-                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-xl hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
+                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
                                             </div>
                                         </div>
@@ -90,7 +92,7 @@ function Projects() {
                                             </div>
                                             <div className="text-center">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Teacher_Website" target="_blank" rel="noopener noreferrer">
-                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-xl hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
+                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
                                             </div>
                                         </div>
@@ -113,7 +115,7 @@ function Projects() {
                                             </div>
                                             <div className="text-center">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Parent_Website" target="_blank" rel="noopener noreferrer">
-                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-xl hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
+                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
                                             </div>
                                         </div>
@@ -136,7 +138,7 @@ function Projects() {
                                             </div>
                                             <div className="text-center">
                                                 <a href="https://github.com/nazarenomarkanthony060120/Attendance_Application" target="_blank" rel="noopener noreferrer">
-                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-xl hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
+                                                    <button className='w-full py-2 rounded border-2 border-cyan-500 shadow-lg hover:shadow-cyan-500 hover:bg-cyan-500 hover:text-white'>Go To Github</button>
                                                 </a>
                                             </div>
                                         </div>

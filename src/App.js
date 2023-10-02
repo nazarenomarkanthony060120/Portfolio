@@ -4,6 +4,7 @@ import Homepage from './pages/Homepage';
 import Contacts from './pages/page/Contacts';
 import Skill from './pages/page/Skill';
 import Project from './pages/page/Project';
+import Minimart from './pages/projects/Minimart';
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
                 <Route path='/skills' element={ <Skill /> }></Route>
                 <Route path='/projects' element={ <Project /> }></Route>
                 <Route path='/contact' element={ <Contacts /> }></Route>
+                <Route path='/minimart' element={ <Minimart />}></Route>
             </Routes>
         </BrowserRouter >
         </>

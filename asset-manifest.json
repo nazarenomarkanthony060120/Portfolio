@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e4fe53d7.css",
-    "main.js": "/portfolio/static/js/main.3691aa09.js",
+    "main.css": "/portfolio/static/css/main.cb7e4936.css",
+    "main.js": "/portfolio/static/js/main.d3b47e04.js",
     "static/media/Attendance_App_4.jpg": "/portfolio/static/media/Attendance_App_4.f485000a186bf567bdde.jpg",
     "static/media/Attendance_App_3.jpg": "/portfolio/static/media/Attendance_App_3.e8f386499ee7148ab013.jpg",
     "static/media/Attendance_App_2.jpg": "/portfolio/static/media/Attendance_App_2.dec7749052f95616c58f.jpg",
     "static/media/me.png": "/portfolio/static/media/me.a3a5a3046276d774ef10.png",
-    "static/media/Attendance_App.jpg": "/portfolio/static/media/Attendance_App.37d8108c3050dfbf9027.jpg",
+    "static/media/Attendance_App.jpg": "/portfolio/static/media/Attendance_App.0b7d51eb535738c467d5.jpg",
     "static/media/Attendance_App_1.jpg": "/portfolio/static/media/Attendance_App_1.37d8108c3050dfbf9027.jpg",
     "static/media/Teacher_Website_1.png": "/portfolio/static/media/Teacher_Website_1.2c0c786887baec75916e.png",
     "static/media/Parent_Website_1.png": "/portfolio/static/media/Parent_Website_1.f9f324866523cf93e643.png",
@@ -64,11 +64,11 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.b1bd91ee966847e46cd0be70489e15b6.svg",
     "static/media/facebook.svg": "/portfolio/static/media/facebook.16571319cabb67df00d46ec27114770b.svg",
     "index.html": "/portfolio/index.html",
-    "main.e4fe53d7.css.map": "/portfolio/static/css/main.e4fe53d7.css.map",
-    "main.3691aa09.js.map": "/portfolio/static/js/main.3691aa09.js.map"
+    "main.cb7e4936.css.map": "/portfolio/static/css/main.cb7e4936.css.map",
+    "main.d3b47e04.js.map": "/portfolio/static/js/main.d3b47e04.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4fe53d7.css",
-    "static/js/main.3691aa09.js"
+    "static/css/main.cb7e4936.css",
+    "static/js/main.d3b47e04.js"
   ]
 }

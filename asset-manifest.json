@@ -1,23 +1,43 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.85921d1d.css",
-    "main.js": "/portfolio/static/js/main.d0e4192d.js",
+    "main.css": "/portfolio/static/css/main.e220881f.css",
+    "main.js": "/portfolio/static/js/main.08171f2d.js",
     "static/media/me.png": "/portfolio/static/media/me.a3a5a3046276d774ef10.png",
     "static/media/Attendance_App.jpg": "/portfolio/static/media/Attendance_App.37d8108c3050dfbf9027.jpg",
+    "static/media/Minimart_Inventory_System_2.png": "/portfolio/static/media/Minimart_Inventory_System_2.300c4905f6a2c5024c5e.png",
+    "static/media/Minimart_Inventory_System_1.png": "/portfolio/static/media/Minimart_Inventory_System_1.2d7affe213da04226c4d.png",
+    "static/media/Minimart_Inventory_System_19.png": "/portfolio/static/media/Minimart_Inventory_System_19.a8782e986e1b68c4229e.png",
+    "static/media/Minimart_Inventory_System_18.png": "/portfolio/static/media/Minimart_Inventory_System_18.f399b5062d6411710667.png",
     "static/media/Minimart_Inventory_System.png": "/portfolio/static/media/Minimart_Inventory_System.2f7a28d9310c4db46443.png",
+    "static/media/Minimart_Inventory_System_8.png": "/portfolio/static/media/Minimart_Inventory_System_8.7b57e4e79dcfe78b4fa4.png",
     "static/media/Mark_Anthony_Nazareno_Resume.docx": "/portfolio/static/media/Mark_Anthony_Nazareno_Resume.00a99580215e8f5ffbb5.docx",
     "static/media/Admin_Website.png": "/portfolio/static/media/Admin_Website.d829af3d3fbc373638f7.png",
+    "static/media/Minimart_Inventory_System_6.png": "/portfolio/static/media/Minimart_Inventory_System_6.63697f61ed827e8832ce.png",
     "static/media/Parent_Website.png": "/portfolio/static/media/Parent_Website.94dde241205ef9b05b8e.png",
     "static/media/Teacher_Website.png": "/portfolio/static/media/Teacher_Website.90268f63ededaf560d42.png",
+    "static/media/Minimart_Inventory_System_9.png": "/portfolio/static/media/Minimart_Inventory_System_9.0a3360dac117fd39360d.png",
+    "static/media/Minimart_Inventory_System_10.png": "/portfolio/static/media/Minimart_Inventory_System_10.9a8a8b812aefbd348f4a.png",
+    "static/media/Minimart_Inventory_System_16.png": "/portfolio/static/media/Minimart_Inventory_System_16.6634ad4a7b1da38529fd.png",
+    "static/media/Minimart_Inventory_System_14.png": "/portfolio/static/media/Minimart_Inventory_System_14.6558aea127a5b34fa122.png",
+    "static/media/Minimart_Inventory_System_11.png": "/portfolio/static/media/Minimart_Inventory_System_11.1816d5d603f4882eb8dd.png",
+    "static/media/Minimart_Inventory_System_17.png": "/portfolio/static/media/Minimart_Inventory_System_17.f3054811c577118c7562.png",
+    "static/media/Minimart_Inventory_System_15.png": "/portfolio/static/media/Minimart_Inventory_System_15.96fe732b2c5bddb82bfe.png",
+    "static/media/Minimart_Inventory_System_20.png": "/portfolio/static/media/Minimart_Inventory_System_20.046435037af80b7842e2.png",
+    "static/media/Minimart_Inventory_System_12.png": "/portfolio/static/media/Minimart_Inventory_System_12.766e2f19453c02808d0a.png",
+    "static/media/Minimart_Inventory_System_13.png": "/portfolio/static/media/Minimart_Inventory_System_13.e994d7b3db71135fc8b0.png",
+    "static/media/Minimart_Inventory_System_4.png": "/portfolio/static/media/Minimart_Inventory_System_4.883a4abec6a61a0bfc61.png",
+    "static/media/Minimart_Inventory_System_7.png": "/portfolio/static/media/Minimart_Inventory_System_7.5f9b4e43a34957de3d59.png",
+    "static/media/Minimart_Inventory_System_3.png": "/portfolio/static/media/Minimart_Inventory_System_3.8c40772a443821114cab.png",
+    "static/media/Minimart_Inventory_System_5.png": "/portfolio/static/media/Minimart_Inventory_System_5.a4ee94a8d268006dca47.png",
     "static/media/github.svg": "/portfolio/static/media/github.7567eb486ad4a805e2faaaff006e7e2c.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.b1bd91ee966847e46cd0be70489e15b6.svg",
     "static/media/facebook.svg": "/portfolio/static/media/facebook.16571319cabb67df00d46ec27114770b.svg",
     "index.html": "/portfolio/index.html",
-    "main.85921d1d.css.map": "/portfolio/static/css/main.85921d1d.css.map",
-    "main.d0e4192d.js.map": "/portfolio/static/js/main.d0e4192d.js.map"
+    "main.e220881f.css.map": "/portfolio/static/css/main.e220881f.css.map",
+    "main.08171f2d.js.map": "/portfolio/static/js/main.08171f2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.85921d1d.css",
-    "static/js/main.d0e4192d.js"
+    "static/css/main.e220881f.css",
+    "static/js/main.08171f2d.js"
   ]
 }
